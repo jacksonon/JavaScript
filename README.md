@@ -42,8 +42,8 @@ function myFunction(){
 
 > 该Git使用代码绝大多数拷贝自RUNOOB.COM
 
-* 小伟哥
-    * 真正的伟哥
-        * 一夜五次郎
+* 编程语言
+    * 脚本语言
+        * Python
 
 [重点知识](#基础知识部分)
