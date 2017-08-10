@@ -43,7 +43,7 @@ function myFunction(){
 > 该Git使用代码绝大多数拷贝自RUNOOB.COM
 
 * 编程语言
-    * 脚本语言
-        * JavaScript
+    * 脚本语言  
+        * JavaScript
 
 [重点知识](#基础知识部分)
