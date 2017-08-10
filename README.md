@@ -42,8 +42,9 @@ function myFunction(){
 
 > 该Git使用代码绝大多数拷贝自RUNOOB.COM
 
-* 编程语言
-    * 脚本语言  
-        * JavaScript
+- [x] 姓名：王家伟
+- [x] 年龄：24 
+- [x] 工龄：3
+- [ ] 其它：null
 
 [重点知识](#基础知识部分)
