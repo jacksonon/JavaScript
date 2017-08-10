@@ -5,7 +5,8 @@
 
 ## 基础知识部分
 * MyFirstJavaScriptDemo.html 我的第一个JavaScript示例程序<!DOCTYPE html>
-`<html>
+`html
+<html>
 <head>
 <meta charset="utf-8"> 
 <title>示例程序核心代码</title> 
@@ -22,7 +23,8 @@ function myFunction(){
 <button type="button" onclick="myFunction()">点击这里</button>
 	
 </body>
-</html>`
+</html>
+`
 
 
 
