@@ -44,6 +44,6 @@ function myFunction(){
 
 * 编程语言
     * 脚本语言
-        * Python
+        * JavaScript
 
 [重点知识](#基础知识部分)
