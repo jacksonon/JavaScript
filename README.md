@@ -10,25 +10,26 @@ JavaScript目前拥有十分广泛的应用市场
 
 ## 基础知识部分
 * MyFirstJavaScriptDemo.html 我的第一个JavaScript示例程序<!DOCTYPE html>
-`html
-<html>
-<head>
-<meta charset="utf-8"> 
-<title>示例程序核心代码</title> 
-<script>
-function myFunction(){
-	document.getElementById("demo").innerHTML="我的第一个 JavaScript 函数";
-}
-</script>
-</head>
-<body>
+`
+	html
+	<html>
+	<head>
+	<meta charset="utf-8"> 
+	<title>示例程序核心代码</title> 
+	<script>
+	function myFunction(){
+		document.getElementById("demo").innerHTML="我的第一个 JavaScript 函数";
+	}
+	</script>
+	</head>
+	<body>
 	
-<h1>我的 Web 页面</h1>
-<p id="demo">一个段落。</p>
-<button type="button" onclick="myFunction()">点击这里</button>
+	<h1>我的 Web 页面</h1>
+	<p id="demo">一个段落。</p>
+	<button type="button" onclick="myFunction()">点击这里</button>
 	
-</body>
-</html>
+	</body>
+	</html>
 `
 
 
