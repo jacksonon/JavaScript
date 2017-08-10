@@ -10,7 +10,6 @@ JavaScript目前拥有十分广泛的应用市场
 
 ## 基础知识部分
 * MyFirstJavaScriptDemo.html 我的第一个JavaScript示例程序<!DOCTYPE html>
-`
 	html
 	<html>
 	<head>
@@ -30,7 +29,6 @@ JavaScript目前拥有十分广泛的应用市场
 	
 	</body>
 	</html>
-`
 
 
 
