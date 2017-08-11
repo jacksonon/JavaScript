@@ -35,9 +35,7 @@ function myFunction(){
 |1|2017.08.10|MyFirstJavaScriptDemo.html|我的第一个JS示例|html内嵌js代码|+++++|
 
 ## 笔记
-|学习周期|学习分类|学习内容|学习成果|
-|-|-|-|-|
-|2017.08.10|JavaScript用法|body中标签、head中标签、外部JS|+++--|
+### 2017.08.10 JavaScript用法 body中标签、head中标签、外部JS +++--
 * body中的js
 ```JavaScript
 <!DOCTYPE html>
