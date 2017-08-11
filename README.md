@@ -54,7 +54,34 @@ document.write("<p>这是一个段落</p>");
 </body>
 </html>
 ```
- 
+* head中dejs
+```JavaScript
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function myFunction()
+{
+    document.getElementById("demo").innerHTML="我的第一个 JavaScript 函数";
+}
+</script>
+</head>
+<body>
+<h1>我的 Web 页面</h1>
+<p id="demo">一个段落</p>
+<button type="button" onclick="myFunction()">尝试一下</button>
+</body>
+</html>
+```
+* 外部js
+```JavaScript
+<!DOCTYPE html>
+<html>
+<body>
+<script src="myScript.js"></script>
+</body>
+</html>
+```
 > 本代码工程由`王家伟`先生创建维护
 
 >> ***崇拜的目光接踵而来***
