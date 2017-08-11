@@ -32,12 +32,12 @@ function myFunction(){
 ## 代码简介
 |文件编号|文件创建日期|文件名|文件中文翻译|文件知识点|知识点掌握程度|
 |---|---|---|---|---|----|
-|1|2017.08.10|MyFirstJavaScriptDemo.html|我的第一个JS示例|html内嵌js代码|❤❤❤❤❤|
+|1|2017.08.10|MyFirstJavaScriptDemo.html|我的第一个JS示例|html内嵌js代码|+++++|
 
 ## 笔记
 |学习周期|学习分类|学习内容|学习成果|
 |-|:-:|-:|
-|2017.08.10|JavaScript用法|body中标签、head中标签、外部JS|❤❤❤|
+|2017.08.10|JavaScript用法|body中标签、head中标签、外部JS|+++--|
  
 > 本代码工程由`王家伟`先生创建维护
 
