@@ -38,6 +38,22 @@ function myFunction(){
 |学习周期|学习分类|学习内容|学习成果|
 |-|-|-|-|
 |2017.08.10|JavaScript用法|body中标签、head中标签、外部JS|+++--|
+* body中的js
+```JavaScript
+<!DOCTYPE html>
+<html>
+<body>
+.
+.
+<script>
+document.write("<h1>这是一个标题</h1>");
+document.write("<p>这是一个段落</p>");
+</script>
+.
+.
+</body>
+</html>
+```
  
 > 本代码工程由`王家伟`先生创建维护
 
