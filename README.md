@@ -80,6 +80,14 @@ function myFunction()
 </body>
 </html>
 ```
+
+### JavaScript输出
+* windown.alert(); -> 弹出警告框
+* document.write(); -> 文件写入HTML文档
+* innerHTML -> 写入到HTML元素
+* console.log() -> 写入到控制台
+
+
 > 本代码工程由`王家伟`先生创建维护
 
 >> ***崇拜的目光接踵而来***
@@ -95,4 +103,4 @@ function myFunction()
 	* ( *︾▽︾)
 		* ╮(╯▽╰)╭
 
-[重点知识](#基础知识部分)
+[重点知识](#笔记)
