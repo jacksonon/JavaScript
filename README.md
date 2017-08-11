@@ -83,10 +83,13 @@ function myFunction()
 
 ### JavaScript输出
 * windown.alert(); -> 弹出警告框
+``` window.alert(5 + 6); ```
 * document.write(); -> 文件写入HTML文档
+``` document.write(Date()); ```
 * innerHTML -> 写入到HTML元素
+``` document.getElementById("demo").innerHTML = "段落已修改。"; ```
 * console.log() -> 写入到控制台
-
+``` console.log(666); ```
 
 > 本代码工程由`王家伟`先生创建维护
 
