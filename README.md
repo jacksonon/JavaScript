@@ -5,7 +5,7 @@
 ![.js](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1502362556655&di=75e8e85c7a65c2ab4c0c449788678409&imgtype=0&src=http%3A%2F%2Fs5.51cto.com%2Fwyfs02%2FM02%2F8C%2FC0%2FwKioL1h3KO2wDLl_AADTxc8C9A8345.jpg "JS炫酷logo")
 
 
-## 基础知识部分
+## 示例代码：详细代码看项目内文件
 * MyFirstJavaScriptDemo.html 我的第一个JavaScript示例程序<!DOCTYPE html>
 ```JavaScript
 <!DOCTYPE html>
@@ -29,9 +29,12 @@ function myFunction(){
 </html>
 ```
 
+## 代码简介
+|文件编号|文件创建日期|文件名|文件中文翻译|文件知识点|知识点掌握程度|
+|---|---|---|---|---|----|
+|1|2017.08.10|MyFirstJavaScriptDemo.html|我的第一个JS示例|html内嵌js代码|❤️❤️❤️❤️❤️|
 
-
-
+## 笔记
 |学习周期|学习内容|学习成果|
 |-|:-:|-:|
 |2017.08.10|基础知识|进行中...|
