@@ -116,3 +116,5 @@ function myFunction()
 		* ╮(╯▽╰)╭
 
 [重点知识](#笔记)
+
+# <del>Javascript已看完</del>
